@@ -1,0 +1,7 @@
+@import "./tailwind.css";
+@import "./fonts.css";
+@import "./theme.css";
+
+* {
+  font-family: 'Figtree', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
